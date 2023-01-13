@@ -1,0 +1,10 @@
+* {
+    padding-left: 5px;
+    padding-top: 5px;
+    font-family: 'Kanit', sans-serif;
+}
+#header {
+    box-sizing: border-box;
+    border: 100px;
+    border-color: blueviolet;
+}
